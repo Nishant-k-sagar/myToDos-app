@@ -1,5 +1,5 @@
 # myToDos-app
-steps to set up:
+steps to set up the repo:
 
 1.download the repo.
 2.edit the .env in backend, with your mongodb_uri, you can make new on atlus.
