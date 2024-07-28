@@ -1,4 +1,6 @@
 # myToDos-app
+
+##myToDos is an easy to manage ToDo app, where you can manage your tasks list.
 steps to set up the repo:  
 
 1.download the repo.  
