@@ -6,7 +6,7 @@ import AuthProvider from "@/components/AuthProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ToDo aoo",
+  title: "ToDo app",
   description: "An easy to manage todo application",
 };
 

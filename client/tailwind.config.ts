@@ -11,7 +11,7 @@ const config: Config = {
       colors: {
         accent: "#cda380",
         accentDark: "beige",
-        accentLight: "orange",
+        accentLight: "beige",
       },
     },
   },

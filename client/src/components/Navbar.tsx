@@ -8,8 +8,13 @@ const Navbar = () => {
 
   return (
     <div className='flex justify-between items-center py-4 text-black'>
-      <div className='text-3xl'>
+      <div>
+        <div className='text-3xl '>
         ToDo App
+        </div>
+        <div className='text-xs text-yellow-100' >
+        <p>To delete a task, press the cross icon in front of it</p>
+        </div>
       </div>
       <div className='cursor-pointer' onClick={()=>{signOut}}>
         <Image 

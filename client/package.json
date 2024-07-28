@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "build:css": "npx tailwindcss -i ./src/app/globals.css -o ./dist/output.css --watch",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.19",
     "axios": "^1.7.2",
     "next": "14.2.5",
     "next-auth": "^4.24.7",
